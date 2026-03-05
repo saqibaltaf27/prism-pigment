@@ -34,8 +34,8 @@ SVG Garphics
 ---
 
 ## Deployment
-1. Github ()
-2. Vercel()
+1. Github (https://github.com/saqibaltaf27/prism-pigment.git)
+2. Vercel(https://prism-pigment.vercel.app)
 
 
 ## Testing / Usage
