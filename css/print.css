@@ -1,0 +1,12 @@
+body {
+    background: white;
+    color: black;
+}
+
+.controls, .visualization {
+    display: none;
+}
+
+.formulation {
+    width: 100%;
+}

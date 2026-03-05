@@ -1,0 +1,22 @@
+Project-Name: Vivid Color Formulation & Consulation Tool - Prism & Pigment
+
+Overview: 
+Building a professional, tablet-optimized web application that allows hair stylists to visually mix semi-permanent pigments and instantly
+see how those formulations will appear on different starting hair levels.
+
+This tool must function as fully responsive Single Page Application (SPA) optimized specifically for IPad usage in salon environment.
+It must provide a virtual mixing palette where stylists can combine two or more base pigments using intuitive touch sliders.
+
+The application must simulate 3 realistic starting hair canvases:
+    - Level 10 Platinum
+    - Level 8 Blonde
+    - Level 6 Light Brown
+
+Each level must influence how the final color appears, mimicking how vivid dyes behave differently depending on underlying depth.
+
+Deliverables:
+1. Codebase: A ZIP file containing all source code (HTML, CSS, JS, and assets).
+2. Public Repository: A link to a public GitHub repository containing the project and a README with setup instructions.
+3. Live Demo: A deployed link to the working tool (via Vercel, Netlify, or GitHub Pages).
+4. Documentation: A brief PDF or Markdown file explaining how the color mixing logic handles the transition from digital RGB colors to physical "ratio-based" formulations.
+5. Visuals: 3-4 screenshots showing the tool in use on different simulated hair levels.
